@@ -77,10 +77,10 @@ setTimeout(a);
 
 setTimeout(b, 5000);
 
-setTimeout(c, 10000);
+setTimeout(c, 9000);
 
-setTimeout(d, 15000);
+setTimeout(d, 14000);
 
-setTimeout(e, 20000);
+setTimeout(e, 19000);
 
-setTimeout(f, 25000);
+setTimeout(f, 24000);
