@@ -55,7 +55,7 @@ function f() {
 
     // Add an event listener (optional)
     button.addEventListener('click', function() {
-    alert('Red Pill');
+        document.location.href = 'red/red.html';
     });
 
     button1 = document.createElement('button1');
@@ -65,7 +65,7 @@ function f() {
 
     // Add an event listener (optional)
     button1.addEventListener('click', function() {
-    alert('Blue Pill');
+        document.location.href = 'http://www.usd325.com';
     });
 
     // Append the button to the document body
@@ -75,12 +75,12 @@ function f() {
 
 setTimeout(a);
 
-setTimeout(b, 5000);
+setTimeout(b, 4000);
 
-setTimeout(c, 9000);
+setTimeout(c, 7000);
 
-setTimeout(d, 14000);
+setTimeout(d, 11000);
 
-setTimeout(e, 19000);
+setTimeout(e, 14000);
 
-setTimeout(f, 24000);
+setTimeout(f, 18500);
